@@ -1,4 +1,4 @@
-export const moviesData = [
+export const Description = [
   {
     id: Math.random(),
     image:
